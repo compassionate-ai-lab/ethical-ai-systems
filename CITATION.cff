@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the book."
+title: "Ethical AI Systems: companion toolkit"
+version: "1.0.0"
+date-released: 2026-10-30
+authors:
+  - family-names: Ray
+    given-names: Sri Amit
+repository-code: "https://github.com/compassionate-ai-lab/ethical-ai-systems"
+url: "https://amitray.com/compassionate-ai-lab/"
+license: MIT
+keywords:
+  - ethical AI
+  - responsible AI
+  - AI governance
+  - agentic AI
+  - human oversight
+  - compassionate AI
+preferred-citation:
+  type: book
+  title: "Ethical AI Systems: Frameworks, Principles, and Advanced Practices for the Age of Autonomous Intelligence"
+  authors:
+    - family-names: Ray
+      given-names: Sri Amit
+  publisher:
+    name: "Compassionate AI Lab"
+  year: 2026
+  edition: "Revised expanded edition"
+  isbn: "978-81-69641-39-5"
