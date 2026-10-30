@@ -1,0 +1,17 @@
+name: tests
+on: [push, pull_request, workflow_dispatch]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.10", "3.11", "3.12", "3.13"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Self-tests
+        run: python ethical_ai_toolkit.py
+      - name: Regression tests
+        run: python -m unittest -v test_ethical_ai_toolkit.py
