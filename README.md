@@ -1,4 +1,4 @@
-# Ethical AI Systems: companion toolkit and Forms Workbook
+# Ethical AI Systems: Frameworks, Principles - The companion toolkit and Forms Workbook
 
 [![tests](https://github.com/compassionate-ai-lab/ethical-ai-systems/actions/workflows/tests.yml/badge.svg)](https://github.com/compassionate-ai-lab/ethical-ai-systems/actions/workflows/tests.yml)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue) ![License: MIT](https://img.shields.io/badge/license-MIT-green) ![No dependencies](https://img.shields.io/badge/dependencies-none-brightgreen)
@@ -26,7 +26,7 @@ The book's Compassionate AI argument rests on four commitments that run through 
 
 Building on [Sri Amit Ray's Compassionate AI Architecture (CAIA™)](https://amitray.com/compassionate-ai-architecture/), the book reads *ahimsa* (non-harm) as **a discipline of choosing and repairing**. First exclude actions that violate rights or create unacceptable harm. Then compare the benefits of what remains, including the costs of delay and refusal. Finally, require an owner and a repair path for what stays uncertain. A large projected benefit can never buy permission for a severe, avoidable injury.
 
-### Why AI agents need it: the discharge agent
+### Example: Why AI agents need it: the discharge agent
 
 A hospital discharges a patient at six in the evening. The discharge agent books a home visit, orders a medication refill, sends a summary to the family and closes the case. Every step is logged as successful. Three days later the patient is readmitted, dehydrated. The refill went to a pharmacy that had closed, and the family summary was written in a language the household did not read.
 
