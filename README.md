@@ -7,7 +7,7 @@
 
 Companion code and worksheets for the book **Ethical AI Systems: Frameworks, Principles, and Advanced Practices for the Age of Autonomous Intelligence** by Dr. Sri Amit Ray ([Compassionate AI Lab](https://amitray.com/compassionate-ai-lab/), 2026; ISBN 978-81-69641-39-5 (Revised Expanded Edition, 2026)). First edition: Inner Light Publishers, 2022, ISBN 978-93-82123-54-5.
 
-[The book](https://amitray.com/ethical-ai-systems-ebook/) addresses a fundamental question: How do we ensure that increasing machine autonomy never comes at the cost of human well-being, accountability, and freedom? Its answer is that the power to act must remain connected to responsibility, care, and human freedom.
+[The book](https://amitray.com/ethical-ai-systems-ebook/) addresses a fundamental question: How do we ensure that increasing machine autonomy never comes at the cost of human well-being, accountability, and freedom? Its answer is that the power to AI to act must remain connected to responsibility, care, and human freedom.
 > This repository is the reference implementation of the book's operational tools:
 >
 > - **Ten-index scorecard**
